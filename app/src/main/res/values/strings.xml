@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgressStateLayout</string>
+    <string name="msgUninternet">数据获取失败，请检查网络</string>
+    <string name="empty_tips">没有找到数据</string>
+</resources>
